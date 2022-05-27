@@ -1,14 +1,9 @@
 {
     "notes": [
         {
-            "title": "this is test one",
-            "text": "test one\n",
+            "title": "Call the bank",
+            "text": "I need to call the bank - example note - \n",
             "id": "0"
-        },
-        {
-            "title": "this is test two",
-            "text": "test two",
-            "id": "1"
         }
     ]
 }

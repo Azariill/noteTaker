@@ -45,6 +45,13 @@ router.delete("/notes/:id",(req,res)=>{
 
     notes.splice(index,1);
 
+    fs.writeFile(
+        './data/db.json',
+        JSON.stringify({notes},null,4),
+        (err) =>
+            err ? console.error(err) : console.info('Successfully updated notes!')
+    );
+
     
     console.info(`${req.method} request recieved to delete item`);
 
