@@ -1,24 +1,9 @@
 {
     "notes": [
         {
-            "title": "test",
-            "text": "etse",
-            "id": "36572149-0d76-4186-a3bc-c8cfd768d84f"
-        },
-        {
-            "title": "ttt",
-            "text": "tt",
-            "id": "7bd488c7-34ac-42c9-ba2a-8ceb0f49c013"
-        },
-        {
-            "title": "dd",
-            "text": "dd",
-            "id": "0840a387-f75a-4a98-8ee8-101c15043ce2"
-        },
-        {
-            "title": "ggg",
-            "text": "gg",
-            "id": "ac462e7d-7c50-4254-839c-04e2b9325448"
+            "title": "This is a new note",
+            "text": "test ",
+            "id": "8d547146-e429-4b77-87c3-ccb9078f6d98"
         }
     ]
 }
