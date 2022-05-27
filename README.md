@@ -1,7 +1,7 @@
 # noteTaker
-GitHub Repo: https://github.com/Azariill/noteTaker
-Deployed on Heroku : https://frozen-fortress-35946.herokuapp.com/
-Youtube Walkthrough : https://youtu.be/9iPmn5Ieubc
+* GitHub Repo: https://github.com/Azariill/noteTaker
+* Deployed on Heroku : https://frozen-fortress-35946.herokuapp.com/
+* Youtube Walkthrough : https://youtu.be/9iPmn5Ieubc
 
 # Table of Contents
   [Installation](#installation)<br>
@@ -31,6 +31,10 @@ Youtube Walkthrough : https://youtu.be/9iPmn5Ieubc
   This website allows you to keep track of notes by adding, removing and editing existing notes.
   
 ## Tests
+
+
+https://user-images.githubusercontent.com/99227667/170652483-b3605640-0fc2-4e10-b575-2b99d27e7b8d.mp4
+
 
   
 ## Questions
