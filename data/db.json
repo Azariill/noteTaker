@@ -4,6 +4,21 @@
             "title": "This is a new note",
             "text": "test ",
             "id": "8d547146-e429-4b77-87c3-ccb9078f6d98"
+        },
+        {
+            "title": "Test note two",
+            "text": "test",
+            "id": "2b7aa03f-6fd3-407e-adba-b42e234b5653"
+        },
+        {
+            "title": "Test note three",
+            "text": "test\n",
+            "id": "2c902489-8bed-4f3e-944e-37ce4eba70fd"
+        },
+        {
+            "title": "test note ",
+            "text": "four",
+            "id": "1041b29f-3da8-4600-af7b-2884a51a703f"
         }
     ]
 }
